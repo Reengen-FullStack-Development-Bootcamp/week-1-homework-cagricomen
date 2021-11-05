@@ -1,0 +1,43 @@
+{
+    "hotels": [
+        {
+            "id": 1,
+            "name": "Swiss Otel İzmir",
+            "description": "The best place to stay in İzmir",
+            "location": "Alsancak, Gazi Osman Paşa Blv. No 1, 35210 Konak/İzmir",
+            "rating": 5,
+            "price": 300,
+            "image": [
+                "https://images.odamax.com/img/1024x768/odamax/image/upload/yvrcgs5ykfgrfr5k1kvt.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-s/0c/d9/05/d3/roof-bar-gece-manzarasi.jpg",
+                "https://cdn2.setur.com.tr/image/hotel/large/setur-swissotel-buyuk-efes-izmir-genel_255312.jpg"
+            ]
+        },
+        {
+            "id":  2,
+            "name": "Swiss Otel İzmir",
+            "description": "The best place to stay in İzmir",
+            "location": "Alsancak, Gazi Osman Paşa Blv. No 1, 35210 Konak/İzmir",
+            "rating": 5,
+            "price": 300,
+            "image": [
+                "https://images.odamax.com/img/1024x768/odamax/image/upload/yvrcgs5ykfgrfr5k1kvt.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-s/0c/d9/05/d3/roof-bar-gece-manzarasi.jpg",
+                "https://cdn2.setur.com.tr/image/hotel/large/setur-swissotel-buyuk-efes-izmir-genel_255312.jpg"
+            ]
+        },
+        {
+            "id":  3,
+            "name": "Swiss Otel İzmir",
+            "description": "The best place to stay in İzmir",
+            "location": "Alsancak, Gazi Osman Paşa Blv. No 1, 35210 Konak/İzmir",
+            "rating": 5,
+            "price": 300,
+            "image": [
+                "https://images.odamax.com/img/1024x768/odamax/image/upload/yvrcgs5ykfgrfr5k1kvt.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-s/0c/d9/05/d3/roof-bar-gece-manzarasi.jpg",
+                "https://cdn2.setur.com.tr/image/hotel/large/setur-swissotel-buyuk-efes-izmir-genel_255312.jpg"
+            ]
+        }
+    ]
+}
